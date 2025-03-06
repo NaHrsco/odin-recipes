@@ -1,0 +1,38 @@
+/* Is the CSS page for the recipes and index.html */
+
+/* General */
+
+.text {
+    font-size: 20px;
+}
+
+.text.link{
+    background-color: rgb(255, 161, 161);
+}
+
+.text_description {
+    text-align: center;
+    font-size: 12px;
+}
+
+.list {
+    font-size: 18px;
+    background-color: rgb(182, 255, 182);
+    line-height: 1.3;
+}
+
+.header1 {
+    text-align: center;
+}
+
+.header2 {
+    font-size: 30px;
+}
+
+.image {
+    display: block;
+    height: 300px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
